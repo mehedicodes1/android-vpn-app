@@ -1,2 +1,2 @@
 # android-vpn-app
- Android VPN App Using Kotlin
+ Android VPN App Using Java
